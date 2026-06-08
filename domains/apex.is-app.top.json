@@ -1,0 +1,11 @@
+{
+  "subdomain": "apex",
+  "domain": "is-app.top",
+  "email_or_discord": "484448192@qq.com",
+  "github_username": "xintiaoobao",
+  "description": "Personal website",
+  "records": {
+    "CNAME": "xintiaoobao.github.io"
+  },
+  "proxied": true
+}
